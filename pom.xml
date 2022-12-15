@@ -10,6 +10,7 @@
 	<groupId>com.rgt.csv</groupId>
 	<artifactId>SpringwithcsvfilesDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>SpringwithcsvfilesDemo</name>
 	<description>Demo project for csv files</description>
 	<properties>
